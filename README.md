@@ -19,9 +19,9 @@ Run the program ```crypto_investments.ipynb``` in Jupyter Lab.
 
 Your will see output that looks like this:
 
-![]()
+![](https://github.com/phodsman/Cryptocurrency-Cluster-Analzyer-with-K-means-and-PCA/blob/main/Screenshot%202021-11-26%20143157.png?raw=true)
 
-![]()
+![](https://github.com/phodsman/Cryptocurrency-Cluster-Analzyer-with-K-means-and-PCA/blob/main/Screenshot%202021-11-26%20143442.png?raw=true)
 
 ## Contributors
 This program was written by Preston Hodsman based on a request for analysis from Trilogy Education Services, a 2U, Inc.
