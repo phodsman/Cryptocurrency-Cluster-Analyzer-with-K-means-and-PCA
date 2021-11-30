@@ -1,4 +1,4 @@
-# Cryptocurrency-Cluster-Analzyer-with-K-means-and-PCA
+# Cryptocurrency-Cluster-Analyzer-with-K-means-and-PCA
 This program imports a CSV file with a number of crypto currencies and their price changes on different timeframes. They are scaled then analyzed using a K-means algorithm, and another K-means algorithm after first applying a PCA (principal component analysis) algorithm. The two methods are compared.
 
 # Technologies
